@@ -1,0 +1,18 @@
+[gns3-core]
+S1
+S2
+
+[gns3-access]
+S3
+S4
+S5
+
+[gns3-access:vars]
+ansible_user = halit
+ansible_ssh_pass = cisco
+ansible_network_os = ios
+
+[gns3-core:vars]
+ansible_user = halit
+ansible_ssh_pass = cisco
+ansible_network_os = ios
