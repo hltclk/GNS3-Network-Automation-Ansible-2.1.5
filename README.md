@@ -1,2 +1,2 @@
 # Network-Automation-Ansible-2.1.5
-Samples for Ansible configs
+Ansible configs for GNS3 Labs
